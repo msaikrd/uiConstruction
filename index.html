@@ -1,0 +1,34 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<script src="http://code.jquery.com/jquery-1.9.1.js"></script>
+<script src="uiConstruction.js"></script>
+<link href="templates/style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript">
+$(function() {
+	$('#ui-construction').uiConstruction({
+		Company:	"Company Name",
+		Title: 		"Our Website is Under Construction",
+		SubTitle: 	"We'll be here soon with a new website. Estimated Time Remaining:",
+		Theme:		"black",
+		Slide: 		{
+						img:[
+								'templates/line/images/1920x1080-computer-background-wallpaper-1634246905.jpg',
+								'templates/line/images/db70684a885c99a15546b79b9c12f0c1.jpg',
+								'templates/line/images/Awesome-Background-Picture.jpg'
+							],
+						delay:10000,
+						duration:'slow'
+					}
+	});
+	
+});
+</script>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ui Construction</title>
+</head>
+<body>
+	<div id="ui-construction"></div>
+</body>
+</html>
