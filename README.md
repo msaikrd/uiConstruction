@@ -5,6 +5,8 @@ uiConstruction First Release
 
 uiConstruction.js is a plugin for jQuery that adds a beautiful and parameterized a form Under Construction. It works in all modern browsers including touch devices.
 
+#### Demo
+http://matirank.github.io/uiConstruction/
 
 #### Usage
 
