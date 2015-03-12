@@ -8,6 +8,9 @@ uiConstruction.js is a plugin for jQuery that adds a beautiful and parameterized
 
 
 #### Usage
+http://matirank.github.io/uiConstruction/
+
+#### Usage
 
 **HTML code:**
 ```html
