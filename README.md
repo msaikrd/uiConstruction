@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 uiConstruction First Release
 =======================================================
 
@@ -9,6 +8,13 @@ uiConstruction.js is a plugin for jQuery that adds a beautiful and parameterized
 
 #### Usage
 http://matirank.github.io/uiConstruction/
+
+#### Example
+Dark Template
+![alt tag](https://github.com/matirank/uiConstruction/blob/master/dark-style.jpg)
+
+Clear Template
+![alt tag](https://github.com/matirank/uiConstruction/blob/master/clear-style.jpg)
 
 #### Usage
 
