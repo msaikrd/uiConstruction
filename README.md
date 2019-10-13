@@ -7,14 +7,14 @@ uiConstruction.js is a plugin for jQuery that adds a beautiful and parameterized
 
 
 #### Demo
-http://matirank.github.io/uiConstruction/
+http://msaikrd.github.io/uiConstruction/
 
 #### Example
 Dark Template
-![alt tag](https://github.com/matirank/uiConstruction/blob/master/dark-style.jpg)
+![alt tag](https://github.com/msaikrd/uiConstruction/blob/master/dark-style.jpg)
 
 Clear Template
-![alt tag](https://github.com/matirank/uiConstruction/blob/master/clear-style.jpg)
+![alt tag](https://github.com/msaikrd/uiConstruction/blob/master/clear-style.jpg)
 
 #### Usage
 
@@ -59,7 +59,7 @@ uiConstruction First Release
 uiConstruction.js is a plugin for jQuery that adds a beautiful and parameterized a form Under Construction. It works in all modern browsers including touch devices.
 
 #### Demo
-http://matirank.github.io/uiConstruction/
+http://msaikrd.github.io/uiConstruction/
 
 #### Usage
 
